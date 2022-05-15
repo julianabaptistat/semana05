@@ -1,0 +1,31 @@
+/* .content {
+    color: rgb(0,0,0);
+    text-align: center;
+    margin: 30vh;
+    font-size: 1.6rem;
+    font-weight: 10000;
+    z-index: 20;
+}
+  #box1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1.2rem;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.65;
+    margin-top: 25vh;
+    height: 40vh;
+    width: auto;
+    border-radius: 8px;
+  }
+  .btn {
+    margin: 2rem;
+    background: #8b728e;
+    color: #fff;
+    border-radius: 0.5rem;
+    padding: 1rem 1rem;
+    margin: auto;
+    cursor: pointer;
+    box-shadow: 0.05rem 0.05rem;
+  } */

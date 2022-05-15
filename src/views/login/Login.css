@@ -1,0 +1,57 @@
+.Param .main_box{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 2rem;
+    width: 100%;
+    height: 50%;
+    background-color: rgb(37, 37, 37);
+    background-size: 100%;
+    opacity: 0.8;
+    border-radius: 0.6rem;
+    color: white;
+    margin: auto;
+    margin-top: 4.375rem;
+}
+.Param .loginbox1 {
+    display: flex;
+    justify-content: left;
+    margin-top: 0.6rem;
+    text-align: left;
+}
+
+.Param .margebox {
+    text-align: left;
+    padding-left: 10%;
+  }
+  
+.Param input {
+    padding: 0.3rem;
+    border-radius: 0.4rem;
+    border: none;
+    width: 80%;
+  }
+  
+.Param label {
+    margin: 0;
+}
+  
+.Param .button {
+    margin-top: 1.3rem;
+    background: #8b728e;
+    color: #fff;
+    border-radius: 0.5rem;
+    padding: 0.7rem 1.5rem;
+    cursor: pointer;
+    border: none;
+}
+  
+.Param .box_2 a {
+    color: #8b728e;
+    text-decoration: none;
+}
+
+.Param .box_2 a:hover {
+    color: #a99cab;
+}
+  
