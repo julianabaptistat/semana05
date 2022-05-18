@@ -2,13 +2,15 @@ import React from "react";
 import "./Navbar.css";
 import { Link } from "react-router-dom";
 
+export default Navbar;
+
 const Navbar = (props) => {
   return (
     <div id="navbar" class="navbar">
-      <h1 class="logo">
-        <span class="text-primary"
-          ><i class="fas fa-rocket"></i> To Space </span
-        >and Beyond
+      <h1 className="logo">
+        <span className="text-primary"
+          ><i className="fas fa-rocket"></i> To Space </span>
+          and Beyond
       </h1>
       <nav>
         <ul>
@@ -21,4 +23,4 @@ const Navbar = (props) => {
   )
 };
 
-export default Navbar;
+

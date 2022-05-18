@@ -10,30 +10,35 @@
   width: 100%;
   height: 10vh;
   top: 0px;
-  padding: 0 30px;
+  padding: 0 1.8rem;
   z-index: 100;
 }
 
 #navbar a {
   text-decoration: none;
   color: #fff;
-  padding: 10px 20px;
-  margin: 0 30px;
+  padding: 0.8rem 1.2rem;
+  margin: 0 3.75rem;
 }
 
 #navbar a:hover {
-  border-bottom: #44344f 2px solid;
+  border-bottom: #44344f 0.15rem solid;
 }
 
 #navbar ul {
   list-style: none;
   display: flex;
   flex-direction: row;
-  margin: 5px;
+  margin: 3rem;
   width: 100%;
+  
 }
 
 #navbar .logo {
   font-weight: 400;
   opacity: 1;
+}
+
+#navbar .text-primary {
+  color: #8b728e;
 }
