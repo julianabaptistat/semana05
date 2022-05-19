@@ -7,7 +7,11 @@ const Param = (props) => {
   const { id } = useParams();
   return (
     <main className="Param">
+<<<<<<< HEAD
       <section >
+=======
+      <section id="sitelogin">
+>>>>>>> ab2ce2cc730bc8e63e6dc9eb0ebf876279ad3278
         <form action="process.php">
           <div className="main_box">
             <div>

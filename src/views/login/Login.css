@@ -15,7 +15,10 @@
     font-family: "Open Sans", sans-serif;
     max-width: 1960px;
     min-width: 360px;
+<<<<<<< HEAD
     font-family: "Open Sans", sans-serif;
+=======
+>>>>>>> ab2ce2cc730bc8e63e6dc9eb0ebf876279ad3278
 }
 .Param .loginbox1 {
     display: flex;
