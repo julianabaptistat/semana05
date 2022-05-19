@@ -1,9 +1,6 @@
 /*Navbar*/
-<<<<<<< HEAD
+
 .navbar {
-=======
-#navbar {
->>>>>>> ab2ce2cc730bc8e63e6dc9eb0ebf876279ad3278
   font-family: "Open Sans", sans-serif;
   display: flex;
   align-items: center;
@@ -18,30 +15,22 @@
   z-index: 100;
 }
 
-<<<<<<< HEAD
 .navbar a {
-=======
-#navbar a {
->>>>>>> ab2ce2cc730bc8e63e6dc9eb0ebf876279ad3278
   text-decoration: none;
   color: #fff;
   padding: 0.8rem 1.2rem;
   margin: 0 3.75rem;
 }
 
-<<<<<<< HEAD
 .navbar a:hover {
   border-bottom: #44344f 0.15rem solid;
 }
 
 .navbar ul {
-=======
-#navbar a:hover {
   border-bottom: #44344f 0.15rem solid;
 }
 
 #navbar ul {
->>>>>>> ab2ce2cc730bc8e63e6dc9eb0ebf876279ad3278
   list-style: none;
   display: flex;
   flex-direction: row;
@@ -50,19 +39,12 @@
   
 }
 
-<<<<<<< HEAD
 .navbar .logo {
-=======
-#navbar .logo {
->>>>>>> ab2ce2cc730bc8e63e6dc9eb0ebf876279ad3278
   font-weight: 400;
   opacity: 1;
 }
 
-<<<<<<< HEAD
+
 .navbar .text-primary {
-=======
-#navbar .text-primary {
->>>>>>> ab2ce2cc730bc8e63e6dc9eb0ebf876279ad3278
   color: #8b728e;
 }

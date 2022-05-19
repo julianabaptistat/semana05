@@ -10,11 +10,7 @@ const Home = (props) => {
           <p>
             Don't lose the opportunity of changing the space travelling market.
           </p>
-<<<<<<< HEAD
           <button className="btn">Read More</button>
-=======
-          <button class="btn">Read More</button>
->>>>>>> ab2ce2cc730bc8e63e6dc9eb0ebf876279ad3278
         </div>
     </body>
   );
