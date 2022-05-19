@@ -27,10 +27,6 @@
 }
 
 .navbar ul {
-  border-bottom: #44344f 0.15rem solid;
-}
-
-#navbar ul {
   list-style: none;
   display: flex;
   flex-direction: row;
